@@ -4,6 +4,8 @@
 
 -----------------
 
+MINHA MODIFICACAO
+
 # pandas: powerful Python data analysis toolkit
 
 | | |
@@ -25,16 +27,19 @@ its way towards this goal.
 
 ## Table of Contents
 
-- [Main Features](#main-features)
-- [Where to get it](#where-to-get-it)
-- [Dependencies](#dependencies)
-- [Installation from sources](#installation-from-sources)
-- [License](#license)
-- [Documentation](#documentation)
-- [Background](#background)
-- [Getting Help](#getting-help)
-- [Discussion and Development](#discussion-and-development)
-- [Contributing to pandas](#contributing-to-pandas)
+- [pandas: powerful Python data analysis toolkit](#pandas-powerful-python-data-analysis-toolkit)
+  - [What is it?](#what-is-it)
+  - [Table of Contents](#table-of-contents)
+  - [Main Features](#main-features)
+  - [Where to get it](#where-to-get-it)
+  - [Dependencies](#dependencies)
+  - [Installation from sources](#installation-from-sources)
+  - [License](#license)
+  - [Documentation](#documentation)
+  - [Background](#background)
+  - [Getting Help](#getting-help)
+  - [Discussion and Development](#discussion-and-development)
+  - [Contributing to pandas](#contributing-to-pandas)
 
 ## Main Features
 Here are just a few of the things that pandas does well:
